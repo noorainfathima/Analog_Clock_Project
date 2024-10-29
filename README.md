@@ -16,11 +16,7 @@ This project showcases an analog clock that dynamically updates every second, si
 - **Smooth Animation**: CSS transitions create smooth, realistic hand movements.
 - **Responsive Design**: The clock scales well on various screen sizes.
 - **Customizable**: Easily update colors, sizes, and styles in the CSS to personalize the clock.
-
-## Demo
-
-Check out the live version of this project: [Live Demo](https://your-demo-link.com)
-
+  
 ## Technologies Used
 
 - **HTML**: Provides the clock’s structure.
